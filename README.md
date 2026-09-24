@@ -101,7 +101,7 @@ WHERE department = '彪哥';
 
 點擊縮圖即可前往影片頁面：
 
-[![Markdown 教學](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kaohsiung_Love_River_IMG_2728.JPG/320px-Kaohsiung_Love_River_IMG_2728.JPG)](https://www.markdownguide.org "Markdown 完整教學")
+[![Everything Is DOG](https://i.ytimg.com/vi/OeCoBQqt7C0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAA6eFyYKEmShKvmi6NWV2ZRtes3w)](https://youtu.be/OeCoBQqt7C0?si=qdDDo84hI1hG5aJy)
 
 語法結構為 `[![替代文字](縮圖網址)](影片網址 "標題")`，若要嵌入 YouTube 影片，縮圖網址可使用 `https://img.youtube.com/vi/影片ID/0.jpg`。
 
@@ -109,13 +109,4 @@ WHERE department = '彪哥';
 
 ## 十、其他語法
 
-### 分隔線
-
-用三個連字號 `---` 獨占一行，就是上面那些橫線。
-
-### 待辦清單
-
-- [x] 學會標題與文字樣式
-- [x] 學會列表與引言區塊
-- [x] 學會程式碼區塊
-- [ ] 練習更多進階語法
+懶得寫
